@@ -10,11 +10,10 @@ Advanced Feature Extraction: Utilized TF-IDF (Term Frequency-Inverse Document Fr
 
 Machine Learning Models Implemented 🔬
 
-Logistic Regression: 78% accuracy
-Naive Bayes: 76% accuracy
-Random Forest: 73% accuracy
-Gradient Boosting: Varying performance
-Multi-Layer Perceptron (MLP): 76% accuracy
+Logistic Regression: (78% accuracy)
+Naive Bayes: (76% accuracy)
+Random Forest: (73% accuracy)
+Gradient Boosting Multi-Layer Perceptron (MLP): (76% accuracy)
 
 Technologies Used 💻
 
